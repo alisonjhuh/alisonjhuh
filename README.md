@@ -1,12 +1,11 @@
 
-hi there — i'm ali huh 🤠
+hi there — i'm ali 🤠
 ========================
-- 🌱 technical writer intern @ mongodb
+- 🌱 technical writer @ mongodb
 - 🧸 uc berkeley, c.o. 2022
-- 📍 berkeley, ca
-- ✈️ currently in the bay area, ca
+- ✈️ currently in the new york, ny
 
 let's connect! 
 --------------
-- 📭 [email](ali.j.huh@berkeley.edu)
+- 📭 [email](ali.j.huh@gmail.com)
 - 👩🏻‍💻 [linkedin](https://www.linkedin.com/in/alison-huh/)
